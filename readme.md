@@ -1,4 +1,4 @@
-<img src="banner.png" alt="drawing" style="width:100%;"/>
+<img src="android_compose_head.png" alt="android jetpack compose android basics" style="width:100%;"/>
 
 # Courses Android Compose Basic - Solution Code #AndroidBasics
 
