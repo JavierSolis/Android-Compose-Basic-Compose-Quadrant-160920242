@@ -1,6 +1,4 @@
-![img.png](img.png)
-
-<img src="img.png" alt="drawing" style="width:100%;"/>
+<img src="banner.png" alt="drawing" style="width:100%;"/>
 
 # Courses Android Compose Basic - Solution Code #AndroidBasics
 
